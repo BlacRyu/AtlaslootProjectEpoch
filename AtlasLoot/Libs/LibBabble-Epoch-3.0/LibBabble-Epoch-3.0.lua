@@ -64,6 +64,7 @@ lib:SetBaseTranslations {
 	["Dark Iron Plate"] = "Dark Iron Plate",
 	["Darkmantle Armor"] = "Darkmantle Armor",
 	["Darkmoon Decks"] = "Darkmoon Decks",
+	["Data collection stopped."] = "Data collection stopped.",
 	["Deathmist Raiment"] = "Deathmist Raiment",
 	["Defias Set"] = "Defias Set",
 	["Devilsaur Claws"] = "Devilsaur Claws",

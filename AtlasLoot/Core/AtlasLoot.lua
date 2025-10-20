@@ -448,6 +448,10 @@ function AtlasLoot_SlashCommand(msg)
 		AtlasLoot_Reset("frames");
 	elseif msg == AL["options"] then
 		AtlasLootOptions_Toggle();
+	elseif msg == "collect" or msg == "scan" then
+		AtlasLoot:CollectDBInfo();
+	elseif msg == "cancel" or msg == "stop" then
+		AtlasLoot:CancelDataCollection();
 	else
 		AtlasLootDefaultFrame:Show();
 	end

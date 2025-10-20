@@ -5269,7 +5269,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{ 7, 60641, "", "=q3=Sandfury Epaulets", ""};
 		{ 8, 60642, "", "=q3=Silithian Keffiyeh", ""};
 		{ 9, 60643, "", "=q3=Worm Hide Bracers", ""};
-		{ 11, 0, "", "=q6=Quest Reward", "=ds="..AL["Achievement"], "Repeatable Quest Reward"};
+		{ 11, 0, "INV_Box_01", "=q6=Quest Reward", "=ds="..AL["Achievement"], "Repeatable Quest Reward"};
 		{ 12, 63227, "", "=q1=Expedition Crate", ""};
 		{ 13, 63226, "", "=q3=Cenarion Saber", "=ds="..AL["Achievement"], "Expedition Crate"};
 		{ 14, 63225, "", "=q3=Cenarion Kodo", "=ds="..AL["Achievement"], "Expedition Crate"};
